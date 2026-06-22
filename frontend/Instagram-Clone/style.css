@@ -50,7 +50,7 @@ hr{
     width: 90%;
     margin: 20px auto;
     display: grid;
-    grid-template-columns: auto auto auto;
+    grid-template-columns: repeat(4, 1fr);
     gap: 5px;
 }
 
